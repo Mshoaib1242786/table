@@ -1,0 +1,25 @@
+table{
+    border: dotted 3px; color: black;
+}
+body{ background: url(zz.jpg);
+   height:100vh;
+   width: 50%;
+   background-repeat: no-repeat;
+    text-align: center;
+    background-image: center;
+}
+th{
+    border: double 2px; color:blueviolet;
+}
+td{
+    border: solid 2px; color: rgb(238, 33, 10);
+}
+.redgreen{
+    color: rgb(234, 37, 11);
+    background-color:skyblue;
+
+}
+
+  .table{
+       display: grid; place-items: center;
+    }
